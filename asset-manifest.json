@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/r-version-morney/static/css/main.80f4e897.css",
+    "main.js": "/r-version-morney/static/js/main.ff14f66a.js",
+    "static/js/787.d69ce6d4.chunk.js": "/r-version-morney/static/js/787.d69ce6d4.chunk.js",
+    "index.html": "/r-version-morney/index.html",
+    "main.80f4e897.css.map": "/r-version-morney/static/css/main.80f4e897.css.map",
+    "main.ff14f66a.js.map": "/r-version-morney/static/js/main.ff14f66a.js.map",
+    "787.d69ce6d4.chunk.js.map": "/r-version-morney/static/js/787.d69ce6d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80f4e897.css",
+    "static/js/main.ff14f66a.js"
+  ]
+}
